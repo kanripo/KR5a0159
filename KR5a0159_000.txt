@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:39:18.168804
-#+TITLE: 大易象數鉤沈圖
-#+PROPERTY: DZID  DZ0158
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—165 三卷 洞真部靈圖類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
